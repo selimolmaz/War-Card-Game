@@ -46,7 +46,7 @@ struct ContentView: View {
                     //player 2
                     VStack{
                         //name
-                        Text("CPU").font(.headline).padding(.bottom, 10.0)
+                        Text("Cpu").font(.headline).padding(.bottom, 10.0)
                         //score
                         Text("0").font(.largeTitle)
                     }
